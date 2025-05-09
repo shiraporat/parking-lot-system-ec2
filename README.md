@@ -5,4 +5,4 @@ The project is designed to be deployed on an AWS EC2 instance.
 This is the URL:
 (http://13.49.74.53:8080)
 
-Authors: Shira Porat, Tomer Aharoni, and Yuval Hyman
+Authors: Shira Porat, Tomer Aharoni, and Yuval Heiman
